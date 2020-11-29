@@ -1,12 +1,18 @@
 .Menu {
   background-image: linear-gradient(to right top, #b40000, #ca3929, #de5c4c, #ef7c70, #fe9c93);
+  text-align:center;
+  color:white;
 
 }
 
 .Menu .primary-text{
-  padding-top: 5%
+  padding-top: 5%;
+  text-align:center;
+  font-size: 75px;
 }
 
 .Menu .secondary-text{
-  padding-bottom: 3%
+  padding-bottom: 3%;
+  text-align:center;
+  color:white;
 }
