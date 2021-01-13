@@ -7,9 +7,10 @@ import './App.css';
 function App() {
   return(
     <div className="App">
-      <Navbar/>  
+      <Navbar/>
       <Pizza/>
-      <Menu/>
+      <Menu/>  
+
     </div>
   );
 }
